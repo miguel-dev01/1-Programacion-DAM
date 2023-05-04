@@ -1,4 +1,4 @@
-# SupuestoPractico4
+# Modulo de programacion 1DAM
 
 Pruebas para Supuesto Practico 4
 

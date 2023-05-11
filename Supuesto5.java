@@ -1,6 +1,6 @@
 package SupuestoPractico5Posible;
 
-public class PosiblePracticalCourse5 {
+public class Supuesto5 {
 	public static void main(String args[]) {
 		
 		String texto = "pepe,,lopez perez,,12345678A,,C/Luna,27,30132,Murcia,,pepelopez@gmail.com,,12/11/2019,,normal,,0;Maria,,Alvarez Martinez,,87654321B,,C/Falsa,123,30009,Murcia,,mariaalvarez@gmail.com,,12/10/2020,,premium,,25";
@@ -40,7 +40,7 @@ public class PosiblePracticalCourse5 {
 		
 		
 		for(int i = 0; i < clientes.length; i++) {	
-			System.out.println("\nCliente Nº " + (i+1)+"\n---------------------------");
+			System.out.println("\nCliente NÂº " + (i+1)+"\n---------------------------");
 			if(clientes[i] != null) {
 				System.out.println("Nombre: " + clientes[i].nombre);
 				System.out.println("Apellidos: " + clientes[i].apellidos);

@@ -15,4 +15,7 @@ Las dimensiones de la ventana deben ser de 800 píxeles de ancho y 600 píxeles 
 - La tabla de resultados debe mostrar los nombre de las columnas y una barra de scroll para poder ver todos los resultados.
 
 - Se debe poner el logo del IES y debajo el nombre del alumno y la fecha.
+
 ![image](https://github.com/miguel-dev01/1-Programacion-DAM/assets/122533153/89e963e0-140b-4b6e-af8c-4ccdc4000968)
+
+![image](https://github.com/miguel-dev01/1-Programacion-DAM/assets/122533153/c57505b0-f793-4a64-839a-7674376a505a)

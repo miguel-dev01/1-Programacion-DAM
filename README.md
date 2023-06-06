@@ -1,5 +1,7 @@
 # Supuesto práctico 8
+Consiste en la implementación de un programa que cuente con una interfaz gráfica con un formulario que permita hacer una búsqueda en la base de datos "instituto" para mostrar en una tabla el nombre, apellidos y población de dichos alumnos.
 
+El programa debe tener el siguiente aspecto:
 Las dimensiones de la ventana deben ser de 800 píxeles de ancho y 600 píxeles de alto. A partir de ahí, se deberán presentar los elementos que aparecen en la imagen.
 
 - El programa debe poder hacer una búsqueda por cualquiera de los campos que se muestran (Nombre, 1º Apellido, 2º Apellido, Población). Además, se debe poder elegir entre buscar coincidencias con cualquiera de los términos de búsqueda o con todos los términos.
